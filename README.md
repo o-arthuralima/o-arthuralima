@@ -19,7 +19,6 @@
 </table>
 
 
-![snake gif](https://github.com/<o-arthuralima>/<o-arthuralima>/blob/output/snake.svg)
 
 <!--
 **o-arthuralima/o-arthuralima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

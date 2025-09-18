@@ -1,6 +1,3 @@
-<div style="float: right;">
- <img width="300" height="300" alt="image" img src="https://github.com/user-attachments/sets/6acdbb30-2c88-496d-8d86-ba9f58f8cb8f" />
-</div>
 
 ## Hello everyone! 👋
 

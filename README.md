@@ -1,5 +1,5 @@
 ## Hello everyone! 👋
-<img width="1024" height="535" alt="image" src="https://github.com/user-attachments/assets/6acdbb30-2c88-496d-8d86-ba9f58f8cb8f" />
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/6acdbb30-2c88-496d-8d86-ba9f58f8cb8f" />
 
 <!--
 **o-arthuralima/o-arthuralima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

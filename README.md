@@ -1,4 +1,7 @@
-<img width="300" height="300" float: right alt="image" src="https://github.com/user-attachments/assets/eae12c14-238f-46e1-8d7e-5739245b2b8a" />
+<div style = float: right;>
+  <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/eae12c14-238f-46e1-8d7e-5739245b2b8a" />
+<div/>
+
 
 ## Hello everyone! 👋
 
